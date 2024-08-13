@@ -134,4 +134,5 @@ Promote health and well-being programs to improve employee satisfaction and redu
 
 
 # Snapshot of Innovative_X HR Dashboard (Power BI Desktop)
-![Innovative_X HR Dashboard](https://github.com/user-attachments/assets/95815762-d677-4dde-af88-4f6d2f9ff377)
+![Innovative_X HR Dashboard](https://github.com/user-attachments/assets/bfdf7f83-7112-48b0-86cc-72b05caa8107)
+
