@@ -4,7 +4,7 @@
 
 The objective of this assignment is to analyze the InnovateX HR dataset and extract meaningful insights to improve HR operations, enhance employee satisfaction, and optimize talent management strategies. By examining the HR data, we aim to address various aspects of the organization's human resources that can contribute to creating a positive work environment, optimizing talent management strategies, and driving organizational success.
 
-# Datset Explanation
+# Dataset Explanation
 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐍𝐮𝐦𝐛𝐞𝐫: Unique identifier for each employee.
 
 𝐀𝐠𝐞: Employee's age in years.
