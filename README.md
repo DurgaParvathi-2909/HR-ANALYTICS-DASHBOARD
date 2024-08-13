@@ -60,72 +60,72 @@ YearsSinceLastPromotion: Years since the employee's last promotion.
 𝐂𝐚𝐫𝐝 𝐕𝐢𝐬𝐮𝐚𝐥𝐬: Added card visuals to highlight key metrics such as total employee count, attrition count, and average salary.
 
 # Insights
-𝟏.𝐓𝐨𝐭𝐚𝐥 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬: 1,470
+𝟏. 𝐓𝐨𝐭𝐚𝐥 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬: 1,470
 
 Understanding the overall workforce size is crucial for HR planning and strategy development.
 
-𝟐.𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧 𝐑𝐚𝐭𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+𝟐. 𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧 𝐑𝐚𝐭𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
 The attrition count is segmented by gender and age groups. This breakdown is essential to identify which demographics are leaving the organization more frequently, enabling targeted retention strategies.
 
-𝟑.𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭-𝐒𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧
+𝟑. 𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭-𝐒𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧
 
 Identifying attrition counts by department helps in pinpointing departments that may require more attention regarding employee satisfaction and engagement.
 
-𝟒.𝐉𝐨𝐛 𝐑𝐨𝐥𝐞 𝐚𝐧𝐝 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐑𝐚𝐭𝐢𝐧𝐠𝐬
+𝟒. 𝐉𝐨𝐛 𝐑𝐨𝐥𝐞 𝐚𝐧𝐝 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐑𝐚𝐭𝐢𝐧𝐠𝐬
 
 The distribution of employees by job role categorized by their performance ratings provides insights into the talent pool. This can help in recognizing high-performing roles and those requiring development.
 
-𝟓.𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐇𝐨𝐮𝐫𝐥𝐲 𝐑𝐚𝐭𝐞 𝐛𝐲 𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭
+𝟓. 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐇𝐨𝐮𝐫𝐥𝐲 𝐑𝐚𝐭𝐞 𝐛𝐲 𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭
 
 Understanding average hourly rates allows for competitive salary benchmarking and helps in ensuring equitable pay across departments.
 
-𝟔.𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐈𝐧𝐜𝐨𝐦𝐞 𝐛𝐲 𝐉𝐨𝐛 𝐑𝐨𝐥𝐞 𝐚𝐧𝐝 𝐆𝐞𝐧𝐝𝐞𝐫
+𝟔. 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐈𝐧𝐜𝐨𝐦𝐞 𝐛𝐲 𝐉𝐨𝐛 𝐑𝐨𝐥𝐞 𝐚𝐧𝐝 𝐆𝐞𝐧𝐝𝐞𝐫
 
 This metric reveals any pay gaps between genders in different job roles, informing necessary adjustments to maintain fairness.
 
-𝟕.𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧 𝐯𝐬. 𝐒𝐚𝐥𝐚𝐫𝐲 𝐇𝐢𝐤𝐞
+𝟕. 𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧 𝐯𝐬. 𝐒𝐚𝐥𝐚𝐫𝐲 𝐇𝐢𝐤𝐞
 
 Analyzing the relationship between attrition and percent salary hike can uncover whether insufficient salary increases contribute to employee turnover.
 
-𝟖.𝐓𝐨𝐩 𝟏𝟎 𝐇𝐢𝐠𝐡𝐞𝐬𝐭 𝐒𝐚𝐥𝐚𝐫𝐲 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬
+𝟖. 𝐓𝐨𝐩 𝟏𝟎 𝐇𝐢𝐠𝐡𝐞𝐬𝐭 𝐒𝐚𝐥𝐚𝐫𝐲 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬
 
 Identifying top earners provides insights into how salary correlates with retention and performance.
 
-𝟗.𝐈𝐦𝐩𝐚𝐜𝐭 𝐨𝐟 𝐌𝐚𝐫𝐢𝐭𝐚𝐥 𝐒𝐭𝐚𝐭𝐮𝐬 𝐨𝐧 𝐃𝐚𝐭𝐚
+𝟗. 𝐈𝐦𝐩𝐚𝐜𝐭 𝐨𝐟 𝐌𝐚𝐫𝐢𝐭𝐚𝐥 𝐒𝐭𝐚𝐭𝐮𝐬 𝐨𝐧 𝐃𝐚𝐭𝐚
 
 Understanding how marital status affects employee data can lead to tailored benefits and support programs.
 
 # Recommendations
-𝟏.𝐓𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐑𝐞𝐭𝐞𝐧𝐭𝐢𝐨𝐧 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬
+𝟏. 𝐓𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐑𝐞𝐭𝐞𝐧𝐭𝐢𝐨𝐧 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬
 
 Implement targeted retention strategies focusing on high attrition demographics, particularly in departments or job roles with higher turnover rates.
 
-𝟐.𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐬
+𝟐. 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐬
 
 Establish robust performance management and recognition programs to motivate employees and improve retention, especially in roles with lower performance ratings.
 
-𝟑.𝐒𝐚𝐥𝐚𝐫𝐲 𝐑𝐞𝐯𝐢𝐞𝐰 𝐚𝐧𝐝 𝐀𝐝𝐣𝐮𝐬𝐭𝐦𝐞𝐧𝐭𝐬
+𝟑. 𝐒𝐚𝐥𝐚𝐫𝐲 𝐑𝐞𝐯𝐢𝐞𝐰 𝐚𝐧𝐝 𝐀𝐝𝐣𝐮𝐬𝐭𝐦𝐞𝐧𝐭𝐬
 
 Conduct a comprehensive salary review to ensure competitive pay, particularly for roles with high attrition or where significant pay gaps exist.
 
-𝟒.𝐂𝐚𝐫𝐞𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬
+𝟒. 𝐂𝐚𝐫𝐞𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬
 
 Offer career development opportunities and clear paths for advancement to enhance job satisfaction and reduce attrition, particularly for younger employees.
 
-𝟓.𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐄𝐧𝐠𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐮𝐫𝐯𝐞𝐲𝐬
+𝟓. 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐄𝐧𝐠𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐮𝐫𝐯𝐞𝐲𝐬
 
 Regularly conduct employee engagement surveys to gather feedback and identify areas for improvement. Use the insights to make data-driven changes to HR policies and practices.
 
-𝟔.𝐅𝐥𝐞𝐱𝐢𝐛𝐥𝐞 𝐖𝐨𝐫𝐤 𝐀𝐫𝐫𝐚𝐧𝐠𝐞𝐦𝐞𝐧𝐭𝐬
+𝟔. 𝐅𝐥𝐞𝐱𝐢𝐛𝐥𝐞 𝐖𝐨𝐫𝐤 𝐀𝐫𝐫𝐚𝐧𝐠𝐞𝐦𝐞𝐧𝐭𝐬
 
 Consider offering flexible work arrangements, especially for employees with family obligations, to improve work-life balance and enhance job satisfaction.
 
-𝟕.𝐄𝐱𝐢𝐭 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐬 𝐚𝐧𝐝 𝐅𝐞𝐞𝐝𝐛𝐚𝐜𝐤 𝐌𝐞𝐜𝐡𝐚𝐧𝐢𝐬𝐦𝐬
+𝟕. 𝐄𝐱𝐢𝐭 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐬 𝐚𝐧𝐝 𝐅𝐞𝐞𝐝𝐛𝐚𝐜𝐤 𝐌𝐞𝐜𝐡𝐚𝐧𝐢𝐬𝐦𝐬
 
 Implement structured exit interviews to gather insights from departing employees. Use this feedback to address systemic issues contributing to attrition.
 
-𝟖.𝐅𝐨𝐜𝐮𝐬 𝐨𝐧 𝐇𝐞𝐚𝐥𝐭𝐡 𝐚𝐧𝐝 𝐖𝐞𝐥𝐥-𝐛𝐞𝐢𝐧𝐠 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐬
+𝟖. 𝐅𝐨𝐜𝐮𝐬 𝐨𝐧 𝐇𝐞𝐚𝐥𝐭𝐡 𝐚𝐧𝐝 𝐖𝐞𝐥𝐥-𝐛𝐞𝐢𝐧𝐠 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐬
 
 Promote health and well-being programs to improve employee satisfaction and reduce stress, which can lead to higher retention rates.
 
