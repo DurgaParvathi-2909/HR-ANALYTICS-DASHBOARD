@@ -56,7 +56,7 @@ What are the primary reasons behind employee departures?
 Please give your valuable feedback and suggestions for furthur improvement.
 
 # Snapshot of HR ANALYTICS DASHBOARD (Power BI Desktop)
-![HR ANALYTICS DASHBOARD](https://github.com/user-attachments/assets/bb1c33d4-650e-4711-9db2-c1d837213b94)
+![HR ANALYTICS DASHBOARD](https://github.com/user-attachments/assets/2a5a6486-fc10-4635-b396-aa8746a68935)
 
 
 
