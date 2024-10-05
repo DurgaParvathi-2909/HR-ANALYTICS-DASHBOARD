@@ -1,5 +1,4 @@
-# Innovative_X HR Dashboard
-
+## 𝐇𝐑 𝐀𝐍𝐀𝐋𝐘𝐓𝐈𝐂𝐒 𝐃𝐀𝐒𝐇𝐁𝐎𝐀𝐑𝐃
 ## Overview
 The HR Analytics Dashboard is designed to provide insights into employee patterns within an organization. This tool aims to help HR departments understand attrition and retention rates, identify factors affecting employee engagement, and develop strategies to enhance organizational growth and performance.
 
@@ -9,9 +8,9 @@ The HR department is facing challenges in understanding employee patterns. There
 # Task
 As an HR Data Analyst, I developed an interactive HR dashboard that addresses the following key questions:
 
-How many active employees are currently in the company?
-What are the annual attrition and retention rates?
-How many employees demonstrate loyalty to the company?
+How many active employees are currently in the company?   
+What are the annual attrition and retention rates?  
+How many employees demonstrate loyalty to the company?  
 What are the primary reasons behind employee departures?
 
 # Action Taken
@@ -31,29 +30,33 @@ What are the primary reasons behind employee departures?
 
 # Insights
 
-The 𝗥&𝗗 𝗱𝗲𝗽𝗮𝗿𝘁𝗺𝗲𝗻𝘁 has the highest attrition count.
-Attrition rates are notably higher among employees aged 𝟮𝟱-𝟯𝟰.
-Gender distribution shows 𝟲𝟬% 𝗺𝗮𝗹𝗲 𝗮𝗻𝗱 𝟰𝟬% 𝗳𝗲𝗺𝗮𝗹𝗲 employees.
-The overall attrition rate stands at 𝟭𝟲.𝟭𝟮%.
-There are 𝟭,𝟮𝟯𝟯 active employees in the organization.
-Employees holding a 𝗯𝗮𝗰𝗵𝗲𝗹𝗼𝗿'𝘀 𝗱𝗲𝗴𝗿𝗲𝗲 exhibit a higher attrition rate.
-The average age of employees is 55 years.
-The Production department consistently offers the highest annual salaries.
+1. The 𝗥&𝗗 𝗱𝗲𝗽𝗮𝗿𝘁𝗺𝗲𝗻𝘁 has the highest attrition count.
+
+2. Attrition rates are notably higher among employees aged 𝟮𝟱-𝟯𝟰.
+3. Gender distribution shows 𝟲𝟬% 𝗺𝗮𝗹𝗲 𝗮𝗻𝗱 𝟰𝟬% 𝗳𝗲𝗺𝗮𝗹𝗲 employees.                                                         
+4. The overall attrition rate stands at 𝟭𝟲.𝟭𝟮%.
+5. There are 𝟭,𝟮𝟯𝟯 active employees in the organization.
+6. Employees holding a 𝗯𝗮𝗰𝗵𝗲𝗹𝗼𝗿'𝘀 𝗱𝗲𝗴𝗿𝗲𝗲 exhibit a higher attrition rate.
+7. The average age of employees is 55 years.
+8. The Production department consistently offers the highest annual salaries.
 
 # Recommendations
-𝐀𝐝𝐝𝐫𝐞𝐬𝐬 𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧 𝐂𝐚𝐮𝐬𝐞𝐬: Investigate the high attrition rates in Sales & Development and Research & Development departments to identify specific challenges and develop targeted retention strategies.
+𝗙𝗶𝗻𝗱 𝗢𝘂𝘁 𝗪𝗵𝘆 𝗘𝗺𝗽𝗹𝗼𝘆𝗲𝗲𝘀 𝗟𝗲𝗮𝘃𝗲: Investigate why people in Sales & Development and R&D are quitting. Make plans to keep them.
 
-𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Focus on engagement and retention strategies for employees with average performance ratings to prevent their departure.
+𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗔𝘃𝗲𝗿𝗮𝗴𝗲 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗿𝘀: Keep average-performing employees engaged to stop them from leaving.
 
-𝐏𝐚𝐲 𝐄𝐪𝐮𝐢𝐭𝐲 𝐚𝐧𝐝 𝐒𝐚𝐭𝐢𝐬𝐟𝐚𝐜𝐭𝐢𝐨𝐧: Conduct a thorough review of salary structures to ensure fairness and equity across different job roles and genders. Consider implementing more frequent and transparent salary reviews.
+𝗘𝗻𝘀𝘂𝗿𝗲 𝗙𝗮𝗶𝗿 𝗣𝗮𝘆: Check that everyone’s pay is fair. Review salaries often.
 
-𝐓𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐑𝐞𝐭𝐞𝐧𝐭𝐢𝐨𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐬: Develop tailored retention strategies based on age and gender data. For instance, provide mentoring and career development opportunities to younger employees and flexible work arrangements to older employees.
+𝗖𝗿𝗲𝗮𝘁𝗲 𝗖𝘂𝘀𝘁𝗼𝗺 𝗣𝗹𝗮𝗻𝘀: Make special plans to keep employees based on their age and gender. Offer mentoring for younger staff and flexible hours for older staff.
 
-𝐒𝐚𝐥𝐚𝐫𝐲 𝐈𝐧𝐜𝐫𝐞𝐦𝐞𝐧𝐭 𝐏𝐨𝐥𝐢𝐜𝐢𝐞𝐬: Consider regular, performance-based salary increments as a retention tool to keep employees motivated and committed to the organization.
+𝗚𝗶𝘃𝗲 𝗥𝗲𝗴𝘂𝗹𝗮𝗿 𝗥𝗮𝗶𝘀𝗲𝘀: Offer raises based on performance to keep employees happy.
 
 𝑩𝒚 𝒍𝒆𝒗𝒆𝒓𝒂𝒈𝒊𝒏𝒈 𝒕𝒉𝒆𝒔𝒆 𝒊𝒏𝒔𝒊𝒈𝒉𝒕𝒔 𝒂𝒏𝒅 𝒓𝒆𝒄𝒐𝒎𝒎𝒆𝒏𝒅𝒂𝒕𝒊𝒐𝒏𝒔, 𝒕𝒉𝒆 𝒐𝒓𝒈𝒂𝒏𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒄𝒂𝒏 𝒘𝒐𝒓𝒌 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒆𝒏𝒉𝒂𝒏𝒄𝒊𝒏𝒈 𝑯𝑹 𝒐𝒑𝒆𝒓𝒂𝒕𝒊𝒐𝒏𝒔, 𝒊𝒎𝒑𝒓𝒐𝒗𝒊𝒏𝒈 𝒆𝒎𝒑𝒍𝒐𝒚𝒆𝒆 𝒔𝒂𝒕𝒊𝒔𝒇𝒂𝒄𝒕𝒊𝒐𝒏, 𝒂𝒏𝒅 𝒐𝒑𝒕𝒊𝒎𝒊𝒛𝒊𝒏𝒈 𝒕𝒂𝒍𝒆𝒏𝒕 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 𝒔𝒕𝒓𝒂𝒕𝒆𝒈𝒊𝒆𝒔.
 
+Please give your valuable feedback and suggestions for furthur improvement.
 
-# Snapshot of Innovative_X HR Dashboard (Power BI Desktop)
-![Innovative_X HR Dashboard](https://github.com/user-attachments/assets/bfdf7f83-7112-48b0-86cc-72b05caa8107)
+# Snapshot of HR ANALYTICS DASHBOARD (Power BI Desktop)
+![HR ANALYTICS DASHBOARD](https://github.com/user-attachments/assets/1d035090-64cd-4bf1-979c-c5e017f04453)
+
+
 
