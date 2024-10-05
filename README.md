@@ -1,50 +1,20 @@
 # Innovative_X HR Dashboard
 
-# Problem Statement
+## Overview
+The HR Analytics Dashboard is designed to provide insights into employee patterns within an organization. This tool aims to help HR departments understand attrition and retention rates, identify factors affecting employee engagement, and develop strategies to enhance organizational growth and performance.
 
-The objective of this assignment is to analyze the InnovateX HR dataset and extract meaningful insights to improve HR operations, enhance employee satisfaction, and optimize talent management strategies. By examining the HR data, we aim to address various aspects of the organization's human resources that can contribute to creating a positive work environment, optimizing talent management strategies, and driving organizational success.
+# Situation
+The HR department is facing challenges in understanding employee patterns. There is a pressing need to improve employee engagement, which directly impacts the growth and performance of the company.
 
-# Dataset Explanation
-𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐍𝐮𝐦𝐛𝐞𝐫: Unique identifier for each employee.
+# Task
+As an HR Data Analyst, I developed an interactive HR dashboard that addresses the following key questions:
 
-𝐀𝐠𝐞: Employee's age in years.
+How many active employees are currently in the company?
+What are the annual attrition and retention rates?
+How many employees demonstrate loyalty to the company?
+What are the primary reasons behind employee departures?
 
-𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧: Indicates whether an employee has left the organization ("Yes" or "No").
-
-𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧𝐂𝐨𝐮𝐧𝐭: Frequency of attrition for each employee.
-
-𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬𝐓𝐫𝐚𝐯𝐞𝐥: Frequency/type of business travel (e.g., "Travel Frequently," "Travel Rarely").
-
-𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭: Department where the employee works.
-
-𝐃𝐢𝐬𝐭𝐚𝐧𝐜𝐞𝐅𝐫𝐨𝐦𝐇𝐨𝐦𝐞: Distance between the employee's home and workplace.
-
-𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧𝐅𝐢𝐞𝐥𝐝: Field of study for the employee's highest education.
-
-𝐆𝐞𝐧𝐝𝐞𝐫: Employee's gender.
-
-𝐇𝐨𝐮𝐫𝐥𝐲𝐑𝐚𝐭𝐞: Employee's hourly pay rate.
-
-𝐉𝐨𝐛𝐑𝐨𝐥𝐞: Specific role of the employee within the organization.
-
-𝐉𝐨𝐛𝐒𝐚𝐭𝐢𝐬𝐟𝐚𝐜𝐭𝐢𝐨𝐧𝐑𝐚𝐭𝐢𝐧𝐠: Rating of employee satisfaction with their job (1-5 scale).
-
-𝐖𝐨𝐫𝐤𝐋𝐢𝐟𝐞𝐁𝐚𝐥𝐚𝐧𝐜𝐞𝐑𝐚𝐭𝐢𝐧𝐠: Employee's perceived work-life balance rating (1-5 scale).
-
-𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞𝐑𝐚𝐭𝐢𝐧𝐠: Employee's performance evaluation rating (1-5 scale).
-
-𝐌𝐚𝐫𝐢𝐭𝐚𝐥𝐒𝐭𝐚𝐭𝐮𝐬: Employee's marital status.
-
-𝐌𝐨𝐧𝐭𝐡𝐥𝐲𝐈𝐧𝐜𝐨𝐦𝐞: Employee's monthly income.
-
-𝐎𝐯𝐞𝐫𝐓𝐢𝐦𝐞: Indicates if the employee works overtime.
-
-𝐏𝐞𝐫𝐜𝐞𝐧𝐭𝐒𝐚𝐥𝐚𝐫𝐲𝐇𝐢𝐤𝐞: Percentage increase in the employee's salary.
-
-𝐘𝐞𝐚𝐫𝐬𝐀𝐭𝐂𝐨𝐦𝐩𝐚𝐧𝐲: Total years worked by the employee.
-YearsSinceLastPromotion: Years since the employee's last promotion.
-
-# Steps Followed
+# Action Taken
 𝐃𝐚𝐭𝐚 𝐋𝐨𝐚𝐝𝐢𝐧𝐠: Loaded the InnovateX HR dataset into Power BI Desktop.
 
 𝐃𝐚𝐭𝐚 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐂𝐡𝐞𝐜𝐤: Utilized Power Query Editor to ensure data quality by checking for errors and empty values.
@@ -61,17 +31,14 @@ YearsSinceLastPromotion: Years since the employee's last promotion.
 
 # Insights
 
-𝐓𝐨𝐭𝐚𝐥 𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧: The total number of employees leaving the company is 237. This high attrition rate might indicate issues within the organization that need addressing.
-
-𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧 𝐛𝐲 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐑𝐚𝐭𝐢𝐧𝐠: Employees with a performance rating of 3 have the highest attrition. This suggests that average-performing employees might be less satisfied or engaged, leading to their departure.
-
-𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐌𝐨𝐧𝐭𝐡𝐥𝐲 𝐈𝐧𝐜𝐨𝐦𝐞 𝐛𝐲 𝐉𝐨𝐛 𝐑𝐨𝐥𝐞 𝐚𝐧𝐝 𝐆𝐞𝐧𝐝𝐞𝐫: There are disparities in monthly income across different job roles and between genders, which could indicate potential pay inequality or role-specific satisfaction issues.
-
-𝐒𝐮𝐦 𝐨𝐟 𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧 𝐂𝐨𝐮𝐧𝐭 𝐛𝐲 𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭: The Sales & Development department has the highest attrition rate, followed by Research & Development. This could point to specific departmental challenges or a stressful work environment in these areas.
-
-𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧 𝐑𝐚𝐭𝐞 𝐛𝐲 𝐆𝐞𝐧𝐝𝐞𝐫 𝐟𝐨𝐫 𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐀𝐠𝐞 𝐆𝐫𝐨𝐮𝐩𝐬: The attrition rate differs significantly by age and gender, with younger age groups (under 25) showing nearly equal attrition rates between males and females, while in older age groups, males tend to have higher attrition rates.
-
-𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐏𝐞𝐫𝐜𝐞𝐧𝐭 𝐒𝐚𝐥𝐚𝐫𝐲 𝐇𝐢𝐤𝐞 𝐛𝐲 𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧: Employees who received higher salary hikes are less likely to leave, suggesting that salary increments can be an effective retention strategy.
+The 𝗥&𝗗 𝗱𝗲𝗽𝗮𝗿𝘁𝗺𝗲𝗻𝘁 has the highest attrition count.
+Attrition rates are notably higher among employees aged 𝟮𝟱-𝟯𝟰.
+Gender distribution shows 𝟲𝟬% 𝗺𝗮𝗹𝗲 𝗮𝗻𝗱 𝟰𝟬% 𝗳𝗲𝗺𝗮𝗹𝗲 employees.
+The overall attrition rate stands at 𝟭𝟲.𝟭𝟮%.
+There are 𝟭,𝟮𝟯𝟯 active employees in the organization.
+Employees holding a 𝗯𝗮𝗰𝗵𝗲𝗹𝗼𝗿'𝘀 𝗱𝗲𝗴𝗿𝗲𝗲 exhibit a higher attrition rate.
+The average age of employees is 55 years.
+The Production department consistently offers the highest annual salaries.
 
 # Recommendations
 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 𝐀𝐭𝐭𝐫𝐢𝐭𝐢𝐨𝐧 𝐂𝐚𝐮𝐬𝐞𝐬: Investigate the high attrition rates in Sales & Development and Research & Development departments to identify specific challenges and develop targeted retention strategies.
