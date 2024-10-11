@@ -53,7 +53,7 @@ What are the primary reasons behind employee departures?
 
 𝑩𝒚 𝒍𝒆𝒗𝒆𝒓𝒂𝒈𝒊𝒏𝒈 𝒕𝒉𝒆𝒔𝒆 𝒊𝒏𝒔𝒊𝒈𝒉𝒕𝒔 𝒂𝒏𝒅 𝒓𝒆𝒄𝒐𝒎𝒎𝒆𝒏𝒅𝒂𝒕𝒊𝒐𝒏𝒔, 𝒕𝒉𝒆 𝒐𝒓𝒈𝒂𝒏𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒄𝒂𝒏 𝒘𝒐𝒓𝒌 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒆𝒏𝒉𝒂𝒏𝒄𝒊𝒏𝒈 𝑯𝑹 𝒐𝒑𝒆𝒓𝒂𝒕𝒊𝒐𝒏𝒔, 𝒊𝒎𝒑𝒓𝒐𝒗𝒊𝒏𝒈 𝒆𝒎𝒑𝒍𝒐𝒚𝒆𝒆 𝒔𝒂𝒕𝒊𝒔𝒇𝒂𝒄𝒕𝒊𝒐𝒏, 𝒂𝒏𝒅 𝒐𝒑𝒕𝒊𝒎𝒊𝒛𝒊𝒏𝒈 𝒕𝒂𝒍𝒆𝒏𝒕 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 𝒔𝒕𝒓𝒂𝒕𝒆𝒈𝒊𝒆𝒔.
 
-Please give your valuable feedback and suggestions for furthur improvement.
+Please give your valuable feedback and suggestions for further improvement.
 
 # Snapshot of HR ANALYTICS DASHBOARD (Power BI Desktop)
 ![HR ANALYTICS DASHBOARD](https://github.com/user-attachments/assets/2a5a6486-fc10-4635-b396-aa8746a68935)
